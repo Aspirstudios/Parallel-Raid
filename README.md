@@ -53,6 +53,9 @@
 
 Each weapon has its own **damage, fire rate, recoil, spread, range and sound**.
 
+<img width="1018" height="629" alt="4" src="https://github.com/user-attachments/assets/8545a228-4bc8-4534-b32a-c9308a4511f1" />
+
+
 ### 🗺️ Maps (25 total)
 - **Classic tributes**: Dust2, Inferno, Nuke, Train, Aztec, Mirage, Cbble, Chateau, Port, Prodigy, Rotterdam, Tuscan
 - **Extended CS 1.6**: Italy, Piranesi, Office
