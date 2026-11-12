@@ -13,8 +13,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-2.x-34A853?style=for-the-badge&logo=python&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-4B4B4B?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows?style=for-the-badge)
+
 ![Status](https://img.shields.io/badge/Status-Beta-orange?style=for-the-badge)
 
 
