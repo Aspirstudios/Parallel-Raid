@@ -13,8 +13,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-2.x-34A853?style=for-the-badge&logo=python&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Windows?style=for-the-badge)
-
 ![Status](https://img.shields.io/badge/Status-Beta-orange?style=for-the-badge)
 
 
